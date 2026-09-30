@@ -4,7 +4,7 @@ import './Home.css';
 export default function Home() {
   return (
     <div>
-      <h1>Welcome to Tana's Game Page</h1>
+      <h1>Flippant Kea Games</h1>
       <MyFunBackground />
     </div>
   );
